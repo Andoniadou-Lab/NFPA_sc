@@ -2,7 +2,7 @@
 
 Code to reproduce the single-cell atlas figures in:
 
-> Kaufman-Cook et al. (2026). *Senescence and the senescence-associated secretory phenotype are associated with tumour aggressiveness in non-functioning PitNETs.*
+> Kaufman-Cook et al. (2026). *A senescence-associated programme marks aggressive non-functioning pituitary neuroendocrine tumours.*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andoniadou-Lab/NFPA_sc/blob/main/NFPitNET_senescence_atlas_figures.ipynb)
 
