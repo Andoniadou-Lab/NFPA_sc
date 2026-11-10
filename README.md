@@ -1,4 +1,4 @@
-# NFPA_sc
+# NF-PitNET_sc
 
 Code to reproduce the single-cell atlas figures in:
 
