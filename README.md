@@ -2,7 +2,7 @@
 
 Code to reproduce the figures and supplementary tables in:
 
-> Kaufman-Cook J*, Vamvoukaki R*, Kövér B, et al. (2026). A senescence-associated programme marks aggressive non-functioning pituitary neuroendocrine tumours. (*equal contribution)
+> Kaufman-Cook J, Vamvoukaki R, Kövér B, et al. (2026). A senescence-associated programme marks aggressive non-functioning pituitary neuroendocrine tumours.
 
 ## Contents
 
